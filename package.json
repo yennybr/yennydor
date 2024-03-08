@@ -1,14 +1,14 @@
 {
-  "name": "kondor-js",
-  "version": "0.4.3",
+  "name": "yennydor",
+  "version": "1.4.3",
   "description": "Kondor Library",
   "author": "Julian Gonzalez",
   "repository": {
-    "url": "https://github.com/joticajulian/kondor-js.git"
+    "url": "https://github.com/yennybr/yennydor"
   },
-  "homepage": "https://github.com/joticajulian/kondor-js.git",
+  "homepage": "https://github.com/yennybr/yennydor",
   "bugs": {
-    "url": "https://github.com/joticajulian/kondor-js/issues"
+    "url": "https://github.com/yennybr/yennydor/issues"
   },
   "files": [
     "lib",
